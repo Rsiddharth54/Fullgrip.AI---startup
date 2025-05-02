@@ -33,9 +33,9 @@ export default function Home() {
               <a href="#industries" className="text-gray-600 hover:text-blue-600 transition-colors">
                 Industries
               </a>
-              <a href="#api-docs" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <Link href="/api-docs" className="text-gray-600 hover:text-blue-600 transition-colors">
                 API Docs
-              </a>
+              </Link>
             </div>
 
             <div className="flex items-center gap-4">
@@ -255,9 +255,11 @@ async function processDocument(fileBuffer) {
                 language="javascript"
               />
               <div className="mt-6">
-                <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
-                  View Full Documentation
-                </Button>
+                <Link href="/api-docs">
+                  <Button variant="outline" className="border-blue-600 text-blue-600 hover:bg-blue-50">
+                    View Full Documentation
+                  </Button>
+                </Link>
               </div>
             </div>
           </div>
