@@ -1,7 +1,7 @@
 # FullGrip.AI – Landing Page
 
 <p align="center">
-  <img src="fullgrip-logo.png" alt="FullGrip.AI Logo" width="150"/>
+  <img src="fullgrip.ai.png" alt="FullGrip.AI Logo" width="150"/>
 </p>
 
 Official  page for **FullGrip.AI**, an automation platform that uses multi-agent AI systems to process and validate financial documents. We focus on digitizing workflows for underserved financial institutions, particularly in emerging markets.
