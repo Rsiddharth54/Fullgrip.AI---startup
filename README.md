@@ -1,30 +1,44 @@
-# Fullgrip.ai landing page
+# FullGrip.AI – Landing Page
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+<p align="center">
+  <img src="fullgrip-logo.png" alt="FullGrip.AI Logo" width="150"/>
+</p>
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rsiddharth54s-projects/v0-fullgrip-ai-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/9hgM2atdpN9)
+Official  page for **FullGrip.AI**, an automation platform that uses multi-agent AI systems to process and validate financial documents. We focus on digitizing workflows for underserved financial institutions, particularly in emerging markets.
 
-## Overview
+## 🔗 Live Deployment
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+View the live website here:  
+**[https://v0-fullgrip-ai-landing-page.vercel.app](https://v0-fullgrip-ai-landing-page.vercel.app)**
 
-## Deployment
+---
 
-Your project is live at:
+## 🚀 What is FullGrip.AI?
 
-**[https://vercel.com/rsiddharth54s-projects/v0-fullgrip-ai-landing-page](https://vercel.com/rsiddharth54s-projects/v0-fullgrip-ai-landing-page)**
+**FullGrip.AI** is building the future of intelligent financial automation. Key features include:
 
-## Build your app
+- AI-powered document extraction and verification  
+- Real-time loan processing and decision support  
+- Scalable API integrations for banks and SACCOs  
+- Multilingual support across 2,000+ languages  
 
-Continue building your app on:
+We aim to unlock faster approvals, better compliance, and smarter operations in financial systems that are traditionally manual and underserved.
 
-**[https://v0.dev/chat/projects/9hgM2atdpN9](https://v0.dev/chat/projects/9hgM2atdpN9)**
+---
 
-## How It Works
+## 🛠 Deployment Workflow
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+1. Built using [v0.dev](https://v0.dev)
+2. Auto-synced with this GitHub repo
+3. Deployed using [Vercel](https://vercel.com)
+
+To make edits to the landing page, update your project directly in v0:  
+**[Edit on v0.dev](https://v0.dev/chat/projects/9hgM2atdpN9)**
+
+---
+
+## Contact
+
+For partnership or product inquiries:  
+**r.siddharth@lse.ac.uk** or **rs5309a@student.american.edu**  
+[LinkedIn](https://www.linkedin.com/in/rishi-siddharth-0024ba235/)
